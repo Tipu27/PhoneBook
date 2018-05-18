@@ -1,0 +1,14 @@
+html,
+body {
+  background-color: #001F11;
+}
+.a-center{
+ /* margin-top: 10%;
+  margin-left: 25%;*/
+  margin: auto;
+  margin-top: 10%;
+}
+.s-margin{
+  margin-top: 1.5em; 
+}
+

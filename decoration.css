@@ -1,0 +1,18 @@
+.in_colore {
+    color: #FFFFFF;
+  }
+  .in-check {
+    margin: auto;
+  }
+  .error {
+    color: red;
+  }
+  .e_color {
+    color: green;
+  }
+  .jumbotron{
+    margin-top: 5em;
+  }
+  body{
+    background-color: #90C3D4;
+  }
